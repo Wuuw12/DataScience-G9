@@ -1,2 +1,2 @@
 # DataScience-G11
-Repository for the group of bricks of Data Science
+Repository for the group of bricks of Data Science course
